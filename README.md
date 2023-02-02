@@ -3,6 +3,7 @@
 Problem Statement - Predicting whether a customer would be interested in buying Vehicle Insurance so that the company can then accordingly plan its communication strategy to reach out to those customers and optimise its business model and revenue.
 
 Conclusion - 
+
 1.Customers of age between 30 to 60 are more likely to buy insurance.
 
 2.Customers with Driving License have higher chance of buying Insurance.
